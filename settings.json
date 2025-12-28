@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "bot_vs_bot.aternos.me", 
+    "port": 20248,   
     "version": "1.12.1"   
   },
 
